@@ -8,14 +8,14 @@
 - 🌱 I'm currently diving deeper into **Data Mining, AI/ML models**, and their applications in real-world scenarios.
 - 💡 My expertise includes Python for backend development and data analysis, and I'm always exploring new technologies.
 - 💬 Ask me about **blockchain, data analytics, decentralized applications,** or **deep learning frameworks**.
-- 📫 How to reach me: [Your Email Address]
-- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile URL]
+- 📫 How to reach me: mouazzamabinteumer@gmail.com
+- 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/mouazzamabinteumer/
 
 <h3 align="left">My Skills & Tools:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,rust,react,nodejs,spring,fastapi,mongodb,postgres,docker,kubernetes,aws,azure,gcp,git,github,vscode,jupyter,tensorflow,pytorch,pandas,numpy,grafana,jira,notion,slack" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,rust,react,nodejs,spring,fastapi,mongodb,docker,kubernetes,aws,azure,gcp,git,github,vscode,jupyter,tensorflow,pytorch,pandas,numpy,grafana,jira,notion,slack" />
   </a>
 </p>
 
