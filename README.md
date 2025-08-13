@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,rust,react,nodejs,spring,fastapi,mongodb,docker,kubernetes,aws,azure,gcp,git,github,vscode,jupyter,tensorflow,pytorch,pandas,numpy,grafana,jira,notion,slack" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,solidity,rust,react,nodejs,spring,fastapi,mongodb,docker,kubernetes,aws,azure,gcp,git,github,vscode,tensorflow,pytorch,grafana,notion" />
   </a>
 </p>
 
